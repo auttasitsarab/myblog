@@ -1,9 +1,8 @@
 chmod +x update.sh
-git config --global user.auttasitsarab
-git config --global user.auttasitsarab@hotmail.com
-git remote add origin https://github.com/auttasitsarab/myblog.git
+git config --global user.name "auttasitsarab"
+git config --global user.email "auttasitsarab@hotmail.com"
 git add -A
 git commit -m "ADD file"
-git push
-chmod +x gitpush.sh
+git remote add origin https://github.com/auttasitsarab/myblog.git
+git push origin master
 sleep 30
