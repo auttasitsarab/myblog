@@ -1,4 +1,4 @@
-chmod +x /update.sh
+chmod +x D:/ProjectGitHub/myblog /update.sh
 git add .
 git commit -m "ADD file"
 git push
