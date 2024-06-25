@@ -1,3 +1,4 @@
+chmod +x update.sh
 git config --global user.auttasitsarab
 git config --global user.auttasitsarab@hotmail.com
 git remote add origin https://github.com/auttasitsarab/myblog.git
