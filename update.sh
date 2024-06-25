@@ -1,7 +1,4 @@
-git config --global user.name "auttasitsarab"
-git config --global user.email "auttasitsarab@hotmail.com"
-git add -A
+git add .
 git commit -m "ADD file"
-git remote add origin https://github.com/auttasitsarab/myblog
-git push origin master
+git push
 sleep 30
