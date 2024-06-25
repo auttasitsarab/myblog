@@ -1,4 +1,3 @@
-chmod +x update.sh
 git config --global user.name "auttasitsarab"
 git config --global user.email "auttasitsarab@hotmail.com"
 git add -A
